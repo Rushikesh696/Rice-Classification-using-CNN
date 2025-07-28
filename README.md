@@ -21,6 +21,7 @@ Total Images: 75,000 (15,000 per class)
 Classes: 5 rice varieties
 
 Source: Provided dataset (archive1.zip) mounted from Google Drive
+
 https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
 
 ### 🧠 Tech Stack
