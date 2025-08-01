@@ -16,6 +16,7 @@ The main purpose of this project is to automate the classification of rice varie
 The goal is to leverage deep learning for accurate identification of rice types, which can be beneficial in agriculture, food quality control, and automation systems.
 
 **Where This Project Can Be Useful**
+
 Agriculture Industry
 
 Automating rice variety identification to help farmers and suppliers ensure correct classification of produce.
